@@ -45,7 +45,7 @@ Sample command usage:
 
 ```bash
 #Create a wallet
-sawtooth keygen jack #This creates the public/private keys for Jill, a pre-requisite for all commands following
+sawtooth keygen jack #This creates the public/private keys for Jack, a pre-requisite for all commands following
 
 simplewallet deposit 100 jack #This adds 100 units to Jack's account
 
